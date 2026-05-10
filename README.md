@@ -3,6 +3,8 @@
 [![Labs](https://img.shields.io/badge/Labs-18-blue)](#labs)
 [![Exam](https://img.shields.io/badge/Exam-Optional-green)](#exam-alternative)
 [![Duration](https://img.shields.io/badge/Duration-18%20Weeks-lightgrey)](#course-roadmap)
+[![Ansible Deployment](https://github.com/karishka1222/DevOps-Core-Course/actions/workflows/ansible-deploy.yml/badge.svg)](https://github.com/karishka1222/DevOps-Core-Course/actions/workflows/ansible-deploy.yml)
+[![Ansible Deploy Bonus](https://github.com/karishka1222/DevOps-Core-Course/actions/workflows/ansible-deploy-bonus.yml/badge.svg)](https://github.com/karishka1222/DevOps-Core-Course/actions/workflows/ansible-deploy-bonus.yml)
 
 Master **production-grade DevOps practices** through hands-on labs. Build, containerize, deploy, monitor, and scale applications using industry-standard tools.
 
@@ -38,8 +40,8 @@ Master **production-grade DevOps practices** through hands-on labs. Build, conta
 | 15 | 15 | StatefulSets | Persistent Storage, Headless Services |
 | 16 | 16 | Cluster Monitoring | Kube-Prometheus, Init Containers |
 | — | **Exam Alternative Labs** | | |
-| 17 | 17 | Edge Deployment | Fly.io, Global Distribution |
-| 18 | 18 | Decentralized Storage | 4EVERLAND, IPFS, Web3 |
+| 17 | 17 | Edge Deployment | Cloudflare Workers, Global Edge |
+| 18 | 18 | Reproducible Builds | Nix, Deterministic Builds, Flakes |
 
 ---
 
@@ -60,8 +62,8 @@ Don't want to take the exam? Complete **both** bonus labs:
 
 | Lab | Topic | Points |
 |-----|-------|--------|
-| **Lab 17** | Fly.io Edge Deployment | 20 pts |
-| **Lab 18** | 4EVERLAND & IPFS | 20 pts |
+| **Lab 17** | Cloudflare Workers Edge Deployment | 20 pts |
+| **Lab 18** | Reproducible Builds with Nix | 20 pts |
 
 **Requirements:**
 - Complete both labs (17 + 18 = 40 pts, replaces exam)
@@ -142,7 +144,7 @@ Each lab is worth **10 points** (main tasks) + **2.5 points** (bonus).
 - StatefulSets, Monitoring
 
 **Exam Alternative (Labs 17-18)**
-- Fly.io, 4EVERLAND/IPFS
+- Cloudflare Workers, Nix Reproducible Builds
 
 </details>
 
